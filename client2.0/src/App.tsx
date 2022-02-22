@@ -20,7 +20,7 @@ const App = function () {
       <Work />
       <Skills />
       <Testimonial />
-      <Footer />
+      <Footer />s
     </div>
   );
 };

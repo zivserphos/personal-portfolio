@@ -1,6 +1,6 @@
 import email from "./images/about01.png";
 // import mobile from './images/mobile.png';
-// import api from './images/api.png';
+// import api from "./images/api.png";
 // import cpp from './images/cpp.png';
 // import css from './images/css.png';
 // import figma from './images/figma.png';
@@ -68,3 +68,4 @@ import email from "./images/about01.png";
 //   bolt,
 //   nb,
 //   skype,
+export {};
